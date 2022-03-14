@@ -1,5 +1,9 @@
 # Spring Boot Assessment - Reflections
 
+![Screenshot 2022-03-14 at 4 48 53 PM](https://user-images.githubusercontent.com/29788431/158136912-61355dc1-93bf-436a-8b80-4c905ff89324.png)
+![Screenshot 2022-03-14 at 4 49 34 PM](https://user-images.githubusercontent.com/29788431/158136980-b8152a85-141d-44a7-9a29-5635deeddfa6.png)
+
+
 ### What did you like about this project?
 * Applying what we have learnt to create an everyday tool (at least for me) using a popular Java framework
 * Enforcement of concepts = good form of revision 
